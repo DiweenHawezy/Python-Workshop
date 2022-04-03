@@ -1,8 +1,8 @@
-# Python-Workshop
+# Python-Workshop #
 
 To begin, we need to install Python and an integrated development environment (IDE).
 
-## Python Environment Setup
+## Python Environment Setup ##
 
 Lets begin by installing Python and a corresponding Package manager, conda/mamba. This allows you to create 'environments' where you work, using selected 'packages' (code libraries that do specific things as plugins to Python)
 
@@ -40,7 +40,7 @@ We will begin by installing packages. Mamba works as a subsitute for conda - whe
 
 Type **y** when prompted. Notice that it will also install many other packages that these packages depend on. Wait until it's complete.
 
-## Visual Studio Code IDE Install & Setup
+## Visual Studio Code IDE Install & Setup ##
 
 Now we need to install Visual Studio Code from the following link - select the correct operating system:
 
