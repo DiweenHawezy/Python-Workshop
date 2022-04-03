@@ -27,3 +27,13 @@ Click start, run the 'miniforge' cmd terminal. At the commandline, run the follo
 **conda create --name Data python=3.10**
 
 This will download a number of packages including Python. Type **'y'** to give consent to install them when prompted.
+
+We will now install packages required to do some analysis into our new environment. Let's activate it by typing hte following:
+
+**conda activate Data**
+
+You'll notice on the left where it said **(base)** it now says **(Data)** signalling we have now in this environment.
+
+We will begin by installing packages. Mamba works as a subsitute for conda - where we can install packages in parallel instead of sequentially. We will install several packages at once. Type the following:
+
+**mamba install pandas numpy matplotlib seaborn geopandas ipykernel**
