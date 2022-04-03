@@ -50,6 +50,6 @@ Install it with all **Other** options ticked.
 
 Launch Visual Studio Code on completion. We now need to install some extensions to ensure smooth operation:
 
-Once Visual Studio Code opens, press **Ctrl+Shift+X** to enter the extensions tab. On the search bar, type **Jupyter**. Select the first option (it has over 34 million downloads) and click install. Next search for **Python** and select the first option (with over 53 million downloads) and click install. 
+Once Visual Studio Code opens, press **Ctrl+Shift+X** to enter the extensions tab. On the search bar, type **Jupyter**. Select the first option (it has over 34 million downloads) and click install. Next search for **Python** and select the first option (with over 53 million downloads) and click install.
 
 We are now ready to begin coding.
