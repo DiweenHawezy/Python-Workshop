@@ -36,4 +36,6 @@ You'll notice on the left where it said **(base)** it now says **(Data)** signal
 
 We will begin by installing packages. Mamba works as a subsitute for conda - where we can install packages in parallel instead of sequentially. We will install several packages at once. Type the following:
 
-**mamba install pandas numpy matplotlib seaborn geopandas ipykernel**
+**mamba install pandas numpy matplotlib seaborn geopandas ipykernel openpyxl**
+
+Type *'y'* when prompted. Notice that it will also install many other packages that these packages depend on. 
