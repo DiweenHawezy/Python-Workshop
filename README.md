@@ -1,4 +1,4 @@
-# Python-Workshop #
+# Python-Workshop - Bureau of Conflict & Stabilization #
 
 To begin, we need to install Python and an integrated development environment (IDE).
 
