@@ -61,3 +61,5 @@ Launch the miniforge prompt again, activate our **Data** environment then type:
 This will launch Visual Studio Code linked to our environment. This now completes the Setup.
 
 You should now download this repository as a zip file (click on the code button above, download as a zip), extract it to the location of your choice and open the folder in Visual Studio Code. Then open the Example.ipynb file.
+
+https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
